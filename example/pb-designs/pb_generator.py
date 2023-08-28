@@ -14,10 +14,11 @@ pb_16_generator = [
     "-",
     "-",
     "-",
+    "+",
 ]
 
 pb_design_transpose = []
-matrix_dim = 15
+matrix_dim = 16
 
 curr_col = pb_16_generator
 for j in range(0, matrix_dim):  # access column
